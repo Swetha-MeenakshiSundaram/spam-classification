@@ -35,3 +35,6 @@ The dataset used is the **SMS Spam Collection Dataset**, which contains labeled 
 | Accuracy | 97.78%        | 96.77%        |
 
 **Classification Report:**
+
+<img width="507" height="432" alt="image" src="https://github.com/user-attachments/assets/47b7f980-a4f1-45e8-9ecc-8b6e6c9625a0" />
+
